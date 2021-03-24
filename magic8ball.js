@@ -30,4 +30,4 @@ switch(randomNumber){
     eightBall="Signs points to a yes";
     break;
 }
-console.log(`The magic genie says ${eightBall}`)
+console.log(`The magic genie says ${eightBall}`);
